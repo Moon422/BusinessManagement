@@ -1,3 +1,5 @@
+using System;
+
 namespace BusinessManagementApi;
 
 public class WeatherForecast
